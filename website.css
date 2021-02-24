@@ -1,0 +1,161 @@
+.top-container{
+  background-color:#75cfb8;
+  margin: auto;
+}
+
+.middle-container{
+    background-color:#bbdfc8;
+    padding:20px;
+}
+
+.bottom-container{
+    background-color:#ffc478;
+    padding:20px;
+}
+
+
+body{
+  text-align:center;
+  margin: auto;
+  font-family:Copperplate;
+  font-size:20px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  margin: 0px 500px 120px 0px;
+}
+.top-cloud{
+  position: relative;
+  margin: 0 50px 50px 250px;
+  padding-top:50px;
+
+}
+
+.text1,.text2{
+  padding:10px 0px 0px 0px;
+  margin: 10px 120px auto 180px;
+  color:#28527a;
+}
+
+
+.h{
+  color:#28527a;
+  text-align: center;
+  margin: 10px 120px auto 0px;
+}
+.t{
+  color:#28527a;
+  text-align: center;
+  margin: auto 0px auto 120px;
+}
+.e{
+  color:#28527a;
+  text-align: center;
+  margin: auto 0px auto 120px;
+}
+
+.c{
+  color:black;
+  text-align: center;
+  margin: auto 0px auto 120px;
+}
+.topic{
+   color:#28527a;
+   text-align:left;
+   padding-left: 4%;
+}
+.topic2{
+   color:#28527a;
+   text-align:right;
+   padding-right: 4%;
+}
+
+.pro{
+  font-weight:normal;
+}
+
+.me{
+  border-radius:100%;
+  margin-left: 20px;
+  margin-right: 40px;
+  float:left;
+  border: 7px double #28527a;
+}
+
+.html{
+  border-radius:20%;
+  margin-left: 20px;
+  margin-right: 40px;
+  float:right;
+  border: 7px double #28527a;
+  height: 100px;
+  weight: 500px;
+
+}
+
+.css{
+  border-radius:20%;
+  margin-left: 20px;
+  margin-right: 40px;
+  float:left;
+  border: 7px double #28527a;
+  height: 100px;
+  weight: 500px;
+}
+.cpp{
+  border-radius:20%;
+  margin-left: 20px;
+  margin-right: 40px;
+  float:right;
+  border: 7px double #28527a;
+  height: 100px;
+  weight: 500px;
+}
+
+.dav{
+  border-radius:20%;
+  margin-left: 20px
+  margin-right: 40px;
+  float:right;
+  border: 7px double #28527a;
+  height: 100px;
+  weight: 10px;
+}
+.school{
+  border-radius:20%;
+  margin-left: 20px;
+  margin-right: 40px;
+  float:left;
+  border: 7px double #28527a;
+  height: 100px;
+  weight: 500px;
+}
+.profile{
+  text-align: left;
+  color:#28527a;
+  line-height: 30px;
+}
+
+hr{
+  width: 10%;
+  height:0;
+  margin-left: auto;
+  margin-right: 600px;
+  /*background-color: #28527a;*/
+  border-top: 2px dotted #28527a;
+}
+
+.skill-row{
+  text-align:left;
+  padding-left: 4%;
+}
+.skill-row2{
+  text-align:right;
+}
+a{
+  text-align: left;
+}
+.footer-link{
+  padding-left: 0px;
+}
